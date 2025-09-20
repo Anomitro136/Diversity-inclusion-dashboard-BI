@@ -25,12 +25,14 @@ diversity-inclusion-dashboard/
 ---
 
 ## 📸 Dashboard Preview
+
 [diversity and inclusion dashboard _Anomitro.pdf](https://github.com/user-attachments/files/22441160/diversity.and.inclusion.dashboard._Anomitro.pdf)
 
 
 ---
 
 ## 🛠 Tools & Technologies
+
 - **Power BI** → Data modeling & visualization  
 - **Excel/CSV** → Source dataset  
 - **DAX** → Measures and KPIs  
@@ -38,6 +40,7 @@ diversity-inclusion-dashboard/
 ---
 
 ## 📈 Key Insights
+
 - Male employees dominate **executive and director levels**  
 - Female representation improves in **junior and officer roles**  
 - Most employees are between **20–39 years**  
@@ -47,6 +50,7 @@ diversity-inclusion-dashboard/
 ---
 
 ## 📧 Contact
+
 👤 **Anomitro Chatterjee**  
 🔗 www.linkedin.com/in/anomitrochatterjee | (https://github.com/Anomitro136)  
 📩 Email: anomitrochatterjee335534@gmail.com  
@@ -54,6 +58,7 @@ diversity-inclusion-dashboard/
 ---
 
 ## 📊 Dashboard Review
+
 This dashboard provides a **comprehensive overview of workforce diversity and inclusion**.  
 It allows organizations to:  
 - Assess **gender balance** across seniority levels  
